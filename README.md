@@ -1,19 +1,19 @@
 # Advance-ToDo-project
 Features
 
-📝 Add, complete, and delete tasks easily
+==> Add, complete, and delete tasks easily
 
-🎯 Priority-based task management (High / Medium / Low)
+==> Priority-based task management (High / Medium / Low)
 
-🔄 Automatic sorting based on priority
+==> Automatic sorting based on priority
 
-📊 Real-time task completion progress bar
+==> Real-time task completion progress bar
 
-💾 Persistent storage using LocalStorage
+==> Persistent storage using LocalStorage
 
-=> Smooth fade-out animation on task deletion
+==> Smooth fade-out animation on task deletion
 
-#=> Clean and responsive user interface
+==>  Clean and responsive user interface
 
 Tech Stack
 
